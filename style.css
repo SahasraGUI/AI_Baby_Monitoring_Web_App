@@ -1,0 +1,18 @@
+body{
+    text-align: center;
+    background-image: url('Live-Wave-Background.svg');
+    background-size: cover;
+    font-family: 'Nunito', sans-serif;
+    font-size: 30px;
+    color: white;
+}
+
+#heading{
+    font-size: 50px !important;
+    color: deeppink;
+    font-family: 'Syne Tactile', cursive;
+}
+
+#btn , #btn_status{
+    font-size: 25px;
+}
